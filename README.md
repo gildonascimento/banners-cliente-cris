@@ -6,3 +6,4 @@ Tipos de arquivos:
 
 - .png
 - .ai
+- .tmp
